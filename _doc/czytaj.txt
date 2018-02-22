@@ -1,0 +1,6 @@
+
+imagemin - jak dodać automat browsersync?
+
+scss - jak dodać do git ignre?
+
+
